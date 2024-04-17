@@ -17,7 +17,7 @@ This first task is focused on scraping and collecting customer feedback and revi
 Customer review data for Britis Airways was collected from [Skytrax](https://www.airlinequality.com/airline-reviews/british-airways).
 
 Following insights were uncovered as they are summed up in the one slide presentation.
-![image]
+![image]<img width="669" alt="Screenshot 2024-04-17 170331" src="https://github.com/MohamedFazil1043/Data-Science-Job-Simulation/assets/158436064/9f49f20a-07b5-49e0-9ce1-7d4e88b1ea0d">
 
 ### Task 2 - Predicting customer buying behaviour
 
@@ -25,4 +25,4 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
-![image]
+![image]<img width="709" alt="Screenshot 2024-04-17 170207" src="https://github.com/MohamedFazil1043/Data-Science-Job-Simulation/assets/158436064/22649b2b-2855-4c31-bd21-6b90f685408a">
